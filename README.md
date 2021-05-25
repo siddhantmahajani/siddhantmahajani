@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant Mahajani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://siddhantcodes.dev/">Siddhant Mahajani</a></h1>
 <h3 align="center">A passionate software engineer from Pune, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **access violation management** project
 
 - 🌱 I’m currently learning about **data science, artificial intelligence and machine learning and trying to implement it to solve real world problems.**
-
-- 📫 To know more about me visit <a href="https://siddhantcodes.dev/">my website.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
