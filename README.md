@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **about data science, artificial intelligence and machine learning.**
 
-- 📫 You can visit **https://siddhantcodes.dev/ for more information**
+- 📫 To know more about me visit <a href="https://siddhantcodes.dev/">my website</a>. Thanks!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/justsiddin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="justsiddin" height="30" width="40" /></a>
-<a href="https://twitter.com/justsiddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="justsiddin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhantmahajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="siddhantmahajani" height="30" width="40" /></a>
+<a href="https://dev.to/justsiddin" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg" alt="justsiddin" height="30" width="40" /></a>
+<a href="https://twitter.com/justsiddin" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="justsiddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddhantmahajani" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="siddhantmahajani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
