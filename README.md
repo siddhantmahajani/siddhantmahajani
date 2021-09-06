@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/justsiddin" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="justsiddin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhantmahajani" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="siddhantmahajani" height="30" width="40" /></a>
+<a href="https://peerlist.io/justsiddin" target="blank"><img align="center" src="https://github.com/siddhantmahajani/siddhantmahajani/blob/main/PL_Primary.svg" alt="justsiddin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
