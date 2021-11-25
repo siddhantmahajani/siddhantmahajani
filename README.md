@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **access violation management** project
 
-- 🌱 I’m currently learning about **data science and data analytics** and trying to implement it to solve real world problems.
+- 🌱 I’m currently learning about **data analytics** and trying to implement it to solve real world problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
