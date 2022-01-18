@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>
 
-- 🔭 I’m currently working on **access violation management** project
+- 🔭 I’m currently working on **risk identification** project
 
 - 🌱 I’m currently learning about **data analytics** and trying to implement it to solve real world problems.
 
