@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://siddhantcodes.dev/">Siddhant Mahajani</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://siddhantmahajani.com/">Siddhant Mahajani</a></h1>
 <h3 align="center">A passionate Software Engineer from Pune, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>
