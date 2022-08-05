@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_siddhantjm" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="siddhantmahajani" height="30" width="40" /></a>
+<a href="https://twitter.com/_siddhantm" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="siddhantmahajani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhantmahajani" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="siddhantmahajani" height="30" width="40" /></a>
 <a href="https://siddhantmahajani.medium.com/" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" alt="siddhantmahajani" height="30" width="40" /></a>
-<a href="https://peerlist.io/siddhantjm" target="_blank"><img align="center" src="https://github.com/siddhantmahajani/siddhantmahajani/blob/main/PL_Primary.svg" alt="siddhantmahajani" height="30" width="40" /></a>
+<a href="https://peerlist.io/siddhantm" target="_blank"><img align="center" src="https://github.com/siddhantmahajani/siddhantmahajani/blob/main/PL_Primary.svg" alt="siddhantmahajani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
