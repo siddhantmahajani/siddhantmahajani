@@ -7,7 +7,7 @@
 
 - ⇨ I’m currently implementing things I learned in **data analytics** to try and solve real world problems.
 
-- ⇨ In my previous experience as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://google.ie">@Pathlock</a>
+- ⇨ In my previous experience as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://pathlock.com/" target="_blank">@Pathlock</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
