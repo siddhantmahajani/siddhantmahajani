@@ -1,11 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px">, I'm <a href="https://siddhantmahajani.com/" target="_blank">Siddhant Mahajani</a></h1>
-<h3 align="center">A passionate Software Engineer and an aspiring Data Analyst from Pune, India</h3>
+<h3 align="center">MSc in Computing - Data Analytics graduate from Dublin, Ireland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>
 
-- 🔭 I’m currently working on **risk identification** project
+- ⇨ I’m currently pursuing **MSc in Computing - Data Analytics** from Dublin City University.
 
-- 🌱 I’m currently learning about **data analytics** and trying to implement it to solve real world problems.
+- ⇨ I’m currently implementing things I learned in **data analytics** to try and solve real world problems.
+
+- ⇨ In my previous experience as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://google.ie">@Pathlock</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
