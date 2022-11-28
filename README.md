@@ -5,7 +5,7 @@
 
 - ⇨ I’m currently pursuing **MSc in Computing - Data Analytics** from Dublin City University.
 
-- ⇨ I’m also trying implementing things I learned in **data analytics** to try and solve real world problems.
+- ⇨ I’m also trying to implement things I learned in **data analytics** to try and solve real world problems.
 
 - ⇨ In my previous job as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://pathlock.com/" target="_blank">@Pathlock</a>
 
