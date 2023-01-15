@@ -5,7 +5,7 @@
 
 - ⇨ I’m currently pursuing **MSc in Computing - Data Analytics** from Dublin City University.
 
-- ⇨ I’m also a **Teaching Assistant** for EE417 and EE417B (Web Application Development) DCU's School of Electronic Engineering.
+- ⇨ I’m also a **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
 
 - ⇨ I’m trying to implement things I learned in **data analytics** to create applications or services that would tackle and solve real world problems.
 
