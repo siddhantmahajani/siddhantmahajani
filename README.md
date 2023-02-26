@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>
 
-- ⇨ I’m currently pursuing **MSc in Computing - Data Analytics** from Dublin City University.
+- ⇨ I’m currently pursuing **MSc in Computing** graduate from Dublin City University.
 
 - ⇨ I’m also a **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
 
