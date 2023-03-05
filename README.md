@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>
 
-- ⇨ I’m currently pursuing **MSc in Computing** graduate from Dublin City University.
+⇨ I’m currently pursuing **MSc in Computing** graduate from Dublin City University.
 
-- ⇨ I’m also a **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
+⇨ I’m also a **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
 
-- ⇨ I’m trying to implement things I learned in **data analytics** to create applications or services that would tackle and solve real world problems.
+⇨ I’m trying to implement things I learned in **data analytics** to create applications or services that would tackle and solve real world problems.
 
-- ⇨ In my previous job as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://pathlock.com/" target="_blank">@Pathlock</a>
+⇨ In my previous job as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://pathlock.com/" target="_blank">@Pathlock</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
