@@ -7,11 +7,9 @@
 
 ⇨ **MSc in Computing (Data Analytics)** from Dublin City University.
 
-⇨ A **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
-
 ⇨ I am trying to implement things I learn in **data analytics** and **machine learning** to create applications and services that would tackle and solve real world problems.
 
-⇨ In my previous job as SDE, I was working on **identifying risks by monitoring transactions** at <a href="https://pathlock.com/" target="_blank">@Pathlock</a>
+⇨ Previously A **Teaching Assistant** at Dublin City University's School of Electronic Engineering, SDE at <a href="https://pathlock.com/" target="_blank">@Pathlock</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
