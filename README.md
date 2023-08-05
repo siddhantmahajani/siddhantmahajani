@@ -3,11 +3,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>-->
 
-⇨ I am working as a Software Developer to build functionlaties from scratch and fix issues in the current functionalities at <a href="https://saadian.com/" target="_blank">@Saadian</a>
+⇨ A Software Developer at <a href="https://saadian.com/" target="_blank">@Saadian</a>
 
-⇨ I am currently pursuing **MSc in Computing (Data Analytics)** from Dublin City University.
+⇨ **MSc in Computing (Data Analytics)** from Dublin City University.
 
-⇨ I was also a **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
+⇨ A **Teaching Assistant** for EE417 and EE417B (Web Application Development) at Dublin City University's School of Electronic Engineering.
 
 ⇨ I am trying to implement things I learn in **data analytics** and **machine learning** to create applications and services that would tackle and solve real world problems.
 
