@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>-->
 
-⇨ A Software Developer <a href="https://saadian.com/" target="_blank">@Saadian</a>
+⇨ A Software Developer @ <a href="https://saadian.com/" target="_blank">Saadian</a>
 
 ⇨ **MSc in Computing (Data Analytics)** from Dublin City University.
 
