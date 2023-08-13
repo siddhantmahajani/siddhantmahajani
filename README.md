@@ -5,7 +5,7 @@
 
 ⇨ A Software Developer @ <a href="https://saadian.com/" target="_blank">Saadian</a>
 
-⇨ **MSc in Computing (Data Analytics)** from Dublin City University.
+⇨ **MSc in Computing (Data Analytics)** graduate from Dublin City University.
 
 ⇨ I am trying to implement things I learn in **data analytics** and **machine learning** to create applications and services that would tackle and solve real world problems.
 
