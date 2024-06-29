@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://siddhantmahajani.com/" target="_blank">Siddhant Mahajani</a></h1>
+<h1 align="center">Siddhant Mahajani</h1>
 <h3 align="center">A Software Developer, Data Analyst, and Machine Learning Enthusiast from Dublin, Ireland</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmahajani" alt="siddhantmahajani" /></a> </p>-->
