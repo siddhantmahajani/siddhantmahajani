@@ -9,8 +9,6 @@
 
 ⇨ I am trying to implement things I learn in **data analytics** and **machine learning** to create applications and services that would tackle and solve real world problems.
 
-⇨ Previously a **Teaching Assistant** @ <a href="https://www.dcu.ie/electronics" target="_blank">Dublin City University's School of Electronic Engineering</a>, SDE @ <a href="https://pathlock.com/" target="_blank">Pathlock</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tinyurl.com/yphwhfke" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="siddhantmahajani" height="30" width="40" /></a>
