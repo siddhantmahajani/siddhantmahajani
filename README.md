@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://tinyurl.com/yphwhfke" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="siddhantmahajani" height="30" width="40" /></a>
 <!-- <a href="https://tinyurl.com/37h73zdc" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" alt="siddhantmahajani" height="30" width="40" /></a> -->
-<a href="https://tinyurl.com/5e54pu89" target="_blank"><img align="center" src="https://github.com/siddhantmahajani/siddhantmahajani/blob/main/PL_Primary.svg" alt="siddhantmahajani" height="30" width="40" /></a>
+<a href="https://tinyurl.com/3kfh3ene" target="_blank"><img align="center" src="https://github.com/siddhantmahajani/siddhantmahajani/blob/main/PL_Primary.svg" alt="siddhantmahajani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
